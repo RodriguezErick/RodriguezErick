@@ -94,7 +94,8 @@ Let’s connect and create something awesome! ✨
 
 Ready to collaborate or chat? Reach out anytime! 🚀
 
-<a href="https://drive.google.com/file/d/1cBmDsGenQ_-a2KpOn8u8R6JrJn3YHptr/view" target="_blank" rel="noopener noreferrer">
+
+<a href="https://drive.google.com/file/d/1r7kyf_l9gea0o7xix4lzVVrdtEQFXp7Z/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
 </a>
 <a href="https://erick-rodriguez-portfolio.netlify.app" target="_blank" rel="noopener noreferrer">
