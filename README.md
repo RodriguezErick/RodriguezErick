@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001F54&height=180" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3A6EA5&height=180" />
 </div>
+
 
 <h1 align="center">Hey there! <img src="images/waving-hand.gif" alt="Erick-hand" style="vertical-align: middle;" width="24" /><br />I'm Erick Rodriguez</h1>
 
